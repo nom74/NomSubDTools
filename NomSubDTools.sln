@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NomSubDTools", "NomSubDTools.csproj", "{BECBDBC8-6669-4C86-B0D5-19F4C4E4DE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-Rhino8|Any CPU = Debug-Rhino8|Any CPU
+		Release-Rhino8|Any CPU = Release-Rhino8|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECBDBC8-6669-4C86-B0D5-19F4C4E4DE16}.Debug-Rhino8|Any CPU.ActiveCfg = Debug-Rhino8|Any CPU
+		{BECBDBC8-6669-4C86-B0D5-19F4C4E4DE16}.Debug-Rhino8|Any CPU.Build.0 = Debug-Rhino8|Any CPU
+		{BECBDBC8-6669-4C86-B0D5-19F4C4E4DE16}.Release-Rhino8|Any CPU.ActiveCfg = Release-Rhino8|Any CPU
+		{BECBDBC8-6669-4C86-B0D5-19F4C4E4DE16}.Release-Rhino8|Any CPU.Build.0 = Release-Rhino8|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C2355B-EDE8-4C00-B2D2-05D7BB8B3D45}
+	EndGlobalSection
+EndGlobal

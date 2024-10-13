@@ -1,0 +1,17 @@
+name: nomSubDTools
+version: 0.1.0
+authors:
+  - Marek Novotny
+description: >
+  nomSubDTools is a simple Rhino plugin designed to help with the alignment of control points on SubD objects.
+  1) nomSubDAlignXY Aligns control points of a SubD object to a line or curve while preserving the Z-coordinate of the points. The alignment works only in the XY plane, which is very useful when the design is nearing its finish.
+  2) nomSubDArrangeToCircle arranges control points into a circle. The alignment works in any plane.
+  Tutorials: https://youtube.com/playlist?list=PLdYUSLGyfvuJDwKLFf82UL-QJwjLqJsXT&si=7g6gA7-8MYkXKmTy
+  Code: https://github.com/nom74/NomSubDTools
+url: "https://nom.cz/rhino/nomsubdtools"
+keyword:
+ - subd
+ - align
+icon: icn_nomsubdtools.png
+icon_url: "https://nom.cz/rhinosubd/icn_nomsubdtools.png"
+ 

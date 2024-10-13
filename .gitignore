@@ -1,0 +1,5 @@
+# Ignore the logs folder
+/logs/
+
+# Ignore everything in node_modules
+/_nom.src/
